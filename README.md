@@ -6,7 +6,7 @@ The full toolkit is a premium pack of 3 Python scripts and a PDF playbook design
 
 ---
 
-![Ethical Hacking Toolkit Cover](cover-hacking.jpg)
+![Ethical Hacking Toolkit Cover](ethical%20hacking.png)
 
 ---
 
